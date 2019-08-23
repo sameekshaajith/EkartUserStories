@@ -8,11 +8,11 @@ collections-> employees
               products
 
 EMPLOYEES -> [{
-        "name" : "sameeksha",
-        "password" : "SAMsam22@",
-        "email" : "sameekshaajith@gmail.com"
+        "name" : "JACKIE",
+        "password" : "JACKjack22@",
+        "email" : "jackie@gmail.com"
     } , 
-    {"name" : "meera", "password" : "SAMsam22@", "email" : "meeraraj655@gmail.com" }]
+    {"name" : "meera", "password" : "Meera22@", "email" : "meera5@gmail.com" }]
 PRODUCTS -> [{
         "pId" : 11,
         "category" : "coffee",
@@ -141,42 +141,42 @@ FEEDBACK-> [{
 
 
 ORDERS-> {
-        "email" : "sameekshaajith@gmail.com",
+        "email" : "jackie@gmail.com",
         "pId" : 18,
         "pName" : "Norwegian Wood",
         "category" : "book",
         "date" : ISODate("2019-08-22T12:48:39.069Z")
 },
 {
-        "email" : "sameekshaajith@gmail.com",
+        "email" : "jackie@gmail.com",
         "pId" : 18,
         "pName" : "Norwegian Wood",
         "category" : "book",
         "date" : ISODate("2019-08-22T12:48:39.069Z")
 },
 {
-        "email" : "meeraraj655@gmail.com",
+        "email" : "meera5@gmail.com",
         "pId" : 16,
         "pName" : "Born A Crime",
         "category" : "book",
         "date" : ISODate("2019-08-22T12:48:39.069Z")
 },
 {
-        "email" : "sameekshaajith@gmail.com",
+        "email" : "jackie@gmail.com",
         "pId" : 18,
         "pName" : "Norwegian Wood",
         "category" : "book",
         "date" : ISODate("2019-06-23T00:00:00Z")
 },
 {
-        "email" : "sameekshaajith@gmail.com",
+        "email" : "jackie@gmail.com",
         "pId" : 18,
         "pName" : "Norwegian Wood",
         "category" : "book",
         "date" : ISODate("2018-06-21T00:00:00Z")
 },
 {
-        "email" : "sameekshaajith@gmail.com",
+        "email" : "jackie@gmail.com",
         "pId" : 17,
         "pName" : "Becoming",
         "category" : "book",
