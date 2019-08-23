@@ -1,0 +1,10 @@
+.deal {
+    border: 3px dotted red;
+}
+
+.discount {
+    background-color: red;
+    border: 1px solid red;
+    width: 30%;
+    color: white;
+}

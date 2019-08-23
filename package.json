@@ -1,0 +1,15 @@
+{
+  "name": "reactexpress",
+  "version": "1.0.0",
+  "description": "Boilerplate for react and express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "sam",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.19.1"
+  }
+}

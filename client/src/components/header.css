@@ -1,0 +1,34 @@
+.eshop {
+    color: white;
+    text-decoration: none;
+}
+.toFix{
+    position: fixed;
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%;
+}
+.hContainer{
+    display:flex;
+    justify-content: space-around;
+    background-color: rgb(128,128,128);
+    display: absolute;
+}
+.himgControl {
+    width: 15%;
+    height: 75%;
+}
+.hgroup1 {
+    width: 10%;
+    display: flex;
+    justify-content: start;
+    /* border: 1px solid red; */
+}
+.hgroup2 {
+    border: 1px solid grey;
+}
+.hgroup3 {
+    border: 1px solid grey;
+}
+.btn-info {
+    background-color: plum !important;
+}

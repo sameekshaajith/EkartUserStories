@@ -1,0 +1,11 @@
+.cellWidth {
+    width: 40px;
+}
+.goBackExplore{
+    position: fixed;
+    left: 150px;
+}
+.logs {
+    position: fixed;
+    right: 150px;
+}

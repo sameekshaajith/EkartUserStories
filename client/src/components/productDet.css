@@ -1,0 +1,28 @@
+.forCenter {
+    /* border: 1px solid red; */
+    width: 80%;
+    margin: auto;
+}
+.one{
+    display: flex;
+    width: 90%;
+    justify-content: center;
+}
+.two {
+    height: 300px;
+    width: 300px;
+}
+/* .three{
+} */
+.twoImage {
+    max-width: 100%;
+    max-height: 100%;
+}
+td {
+    border-bottom: 1px solid #ddd;
+}
+.forRater {
+    display: flex;
+    justify-content: space-around;
+    /* border: 1px solid red; */
+}

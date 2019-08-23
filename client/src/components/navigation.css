@@ -1,0 +1,30 @@
+.eshop {
+    color: white;
+    text-decoration: none;
+}
+.forFix {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.nav {
+    display : flex;
+    justify-content: space-around;
+    background-color: gray;
+}
+.imgControl {
+    width: 15%;
+    height: 75%;
+}
+.group1 {
+    width: 25%;
+    display: flex;
+    justify-content: start;
+}
+.group2 {
+    display: flex;
+    justify-content: end;
+}
+.btn-info {
+    background-color: plum !important;
+}

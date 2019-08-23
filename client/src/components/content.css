@@ -1,0 +1,12 @@
+.content {
+    width: 100%;
+    height: 650px;
+    background-image: url('./tim-mossholder-07uiqD9LS6U-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+

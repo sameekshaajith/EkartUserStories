@@ -1,0 +1,32 @@
+.search {
+    /* margin-top: 5px; */
+    text-align: center;
+    position: fixed;
+    right: 10px;
+    /* border: 1px solid red; */
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+}
+#search {
+    background-color: lightpink;
+}
+.divMain {
+    display: flex;
+    margin-top: 45px;
+    margin-bottom: 60px;
+}
+.divOne{
+    width: 25%;
+    /* border: 1px solid red; */
+    background-color:rgb(211,211,211)
+}
+.divTwo{
+    width: 50%;
+    /* border: 1px solid red; */
+}
+.divThree{
+    width: 25%;
+    /* border: 1px solid red; */
+    background-color:rgb(211,211,211)
+}

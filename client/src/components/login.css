@@ -1,0 +1,8 @@
+.login-form{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.form-div{
+    width: 50%
+}
